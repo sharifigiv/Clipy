@@ -1,0 +1,54 @@
+New Copy!
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmp9qoo8p22.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+    nan M-A:    nan fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   
+New Copy!
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpy5yfdhwg.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+New Copy!
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpmyen59ky.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmp9dc0628n.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+  -0.05 M-A:  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpfpb5fkhq.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmp_y1dbhfe.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpl65h9wf3.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpzen02hej.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpr9wz7pha.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpm70a_xrf.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmpzyjp5nxk.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+
+    nan    :  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   Input #0, wav, from '/tmp/tmppybh2c6y.wav':
+  Duration: 00:00:00.05, bitrate: 94 kb/s
+  Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 11025 Hz, 1 channels, u8, 88 kb/s
+  -0.05 M-A:  0.000 fd=   0 aq=    0KB vq=    0KB sq=    0B f=0/0   
+Killed
+X connection to :0 broken (explicit kill or server shutdown).
+exit status 1
