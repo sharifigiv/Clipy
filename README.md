@@ -1,0 +1,2 @@
+# Clipy
+Clipboard manager 
